@@ -1,4 +1,3 @@
-Repository Init Content
-=======================
+# RHPAM dynamic combo
 
-Your project description here.
+A bpm process with a human task where combo values are filled from another variable
